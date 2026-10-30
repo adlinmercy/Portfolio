@@ -304,10 +304,10 @@ document.querySelectorAll('.stat-num, .counter-big').forEach(el=> counterObserve
    11. HERO TAGLINE TYPEWRITER ROTATOR
    --------------------------------------------------------- */
 const taglines = [
-  'intelligent systems for tomorrow.',
-  'data into intelligence.',
-  'the future with artificial intelligence.',
-  'AI products, end to end.'
+  'Aspiring Full Stack Developer',
+  'Quick learner, problem solver, and AI enthusiast.',
+  'Iot and AI enthusiast.',
+  'Aspiring ML Engineer.'
 ];
 const rotatorEl = document.getElementById('rotatorText');
 let tIdx = 0, cIdx = 0, deleting = false;
